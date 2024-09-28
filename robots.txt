@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ationdube.github.io/sitemap.html.gz
+Sitemap: https://ationdube.github.io/app/sitemap.html.gz
+Sitemap: https://ationdube.github.io/assets/sitemap.html.gz
+Sitemap: https://ationdube.github.io/css/sitemap.html.gz
+Sitemap: https://ationdube.github.io/data/sitemap.html.gz
+Sitemap: https://ationdube.github.io/includes/sitemap.html.gz
+Sitemap: https://ationdube.github.io/item/sitemap.html.gz
+Sitemap: https://ationdube.github.io/src/sitemap.html.gz
